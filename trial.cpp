@@ -2,7 +2,7 @@
 #include <vector>
 #include <string>
 
-using namespace std;
+gusing namespace std;
 
 int main()
 {
